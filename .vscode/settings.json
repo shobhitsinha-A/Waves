@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/411203fa-b429-45c6-8d23-5f3974dfc339/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Waves-Guitar-Shop",
+    "appService.deploySubpath": "."
+}
