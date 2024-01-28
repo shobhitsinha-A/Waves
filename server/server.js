@@ -7,7 +7,7 @@ const xss =require('xss-clean');
 const mongoSanitize = require('express-mongo-sanitize');
 const routes = require('./routes');
 const passport = require('passport');
-const { jwtStrategy } = require('./middleware/passport');
+const { jwtStrategy } = require('./middleWare/passport');
 
 const { handleError, convertToApiError } = require('./middleWare/apiError');
 
