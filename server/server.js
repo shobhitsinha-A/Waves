@@ -7,9 +7,9 @@ const xss =require('xss-clean');
 const mongoSanitize = require('express-mongo-sanitize');
 const routes = require('./routes');
 const passport = require('passport');
-const { jwtStrategy } = require('./middleWare/passport');
+const { jwtStrategy } = require('./middleware/passport');
 
-const { handleError, convertToApiError } = require('./middleWare/apiError');
+const { handleError, convertToApiError } = require('./middleware/apiError');
 
 
 /// mongodb+srv://<username>:<password>@cluster0.scuhfvx.mongodb.net/?retryWrites=true&w=majority

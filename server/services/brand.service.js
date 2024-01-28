@@ -1,5 +1,5 @@
 const { Brand } = require('../models/brand');
-const {ApiError} = require('../middleWare/apiError')
+const {ApiError} = require('../middleware/apiError')
 const httpStatus = require('http-status');
 const addBrand = async( brandname ) => {
     try{

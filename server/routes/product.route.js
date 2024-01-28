@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const productsController = require('../controllers/products.controller');
 const auth = require('../middleware/auth');
-const { addProductValidator } = require('../middleWare/validations')
+const { addProductValidator } = require('../middleware/validations')
 const formidableMiddleware = require('express-formidable');
 
 router.post('/', auth('createAny','product'),addProductValidator,productsController.addProduct);

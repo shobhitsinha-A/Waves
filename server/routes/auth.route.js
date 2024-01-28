@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const authController = require('../controllers/auth.controller');
-const auth = require('../middleWare/auth')
+const auth = require('../middleware/auth')
 
 //info from client to server so post request 
 
