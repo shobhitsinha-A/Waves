@@ -28,11 +28,7 @@ Other Technologies: Axios, Bootstrap, etc.
 
 ![Screenshot 2024-01-28 at 11 46 38 AM](https://github.com/shobhitsinha-A/Waves/assets/64719272/7e6c39e1-f460-471f-b78f-6721dfe9ed4b)
 
-![Screenshot 2024-01-28 at 11 46 59 AM](https://github.com/shobhitsinha-A/Waves/assets/64719272/51a65d83-a652-48e4-b9d4-d671f1167dc4)
-
 ![Screenshot 2024-01-28 at 11 47 09 AM](https://github.com/shobhitsinha-A/Waves/assets/64719272/3ac1cf61-e8cb-47a6-87d6-7842cf1137fa)
-
-![Screenshot 2024-01-28 at 11 47 20 AM](https://github.com/shobhitsinha-A/Waves/assets/64719272/9e731294-bebd-4413-8fde-bc258ecd1252)
 
 ![Screenshot 2024-01-28 at 11 48 06 AM](https://github.com/shobhitsinha-A/Waves/assets/64719272/ea641992-74b9-4191-9fec-c11732b8a62b)
 
