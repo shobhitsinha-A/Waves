@@ -9,7 +9,7 @@ const routes = require('./routes');
 const passport = require('passport');
 const { jwtStrategy } = require('./middleware/passport');
 
-const { handleError, convertToApiError } = require('./middleware/ApiError');
+const { handleError, convertToApiError } = require('./middleWare/apiError');
 
 
 /// mongodb+srv://<username>:<password>@cluster0.scuhfvx.mongodb.net/?retryWrites=true&w=majority
